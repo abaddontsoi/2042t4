@@ -3,6 +3,8 @@
 using namespace std;
 
 int main(){
+
+	// q1
 	cout << "I have a number between 1 and 100." << endl;
 	cout << "Can you guess my number?" << endl ;
 
